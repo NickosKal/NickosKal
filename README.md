@@ -1,11 +1,10 @@
 ### Hi there, I'm Nick 👋 
 
-## I'm a Entry level Developer!!
+## I'm an AI/ML Engineer!!
 
-- 🔭 I'm intrested in machince learning, data engineering and Programming Development in general!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to workout and play video games
+- 🔭 I'm interested in AI and machine learning, data engineering, and software development!
+- 🌱 I’m currently learning everything
+- ⚡ Fun fact: I love sports, hiking, and traveling.
 - 📫 How to reach me: nekalampokas@gmail.com
 
 ### Connect with me:
